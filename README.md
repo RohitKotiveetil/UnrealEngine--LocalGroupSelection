@@ -1,5 +1,5 @@
 # UnrealEngine--LocalGroupSelection
-Recreation of the Local Group Selection mechanic from Halo Wars in Unreal Engine
+Recreation of the Local Group Selection mechanic from Halo Wars in Unreal Engine.
 
 Created using blueprints in Unreal Engine v4.21.
 
