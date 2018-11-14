@@ -8,4 +8,4 @@ Created using blueprints in Unreal Engine v4.21.
 ## Notes:
 - The BPC_GroupSelectionController component contains the core logic for identifying and selecting on-screen units. Add the component to your player pawn/controller & call the SelectLocalGroup event to use the group selection system.
 
-**This project is licensed under the Unreal Engine 4 EULA.**
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
